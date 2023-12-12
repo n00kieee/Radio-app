@@ -1,0 +1,37 @@
+[
+  {
+    "id": "1",
+    "name": "SoundPark Deep",
+    "cover": "src/assets/img/spdeep.png",
+    "source": "https://relay2.radiotoolkit.com/spdeep",
+    "url": "https://www.spdeep.com/"
+  },
+  {
+    "id": "2",
+    "name": "Deep One",
+    "cover": "src/assets/img/deepone.webp",
+    "source": "https://stream.deep1.ru/deep1aac",
+    "url": "https://deep1.ru/"
+  },
+  {
+    "id": "3",
+    "name": "Pacific Radio",
+    "cover": "src/assets/img/pacific.webp",
+    "source": "https://manager7.streamradio.fr:1340/stream",
+    "url": ""
+  },
+  {
+    "id": "4",
+    "name": "Fantasy Lounge",
+    "cover": "src/assets/img/fantasy.jpg",
+    "source": "https://edge12.streamonkey.net/fantasy-lounge/stream/mp3?aggregator=icecastdirectory",
+    "url": ""
+  },
+  {
+    "id": "5",
+    "name": "P&W DJ Radio",
+    "cover": "src/assets/img/dj.png",
+    "source": "http://radio.gawooni.games:9000/autodj",
+    "url": ""
+  }
+]
